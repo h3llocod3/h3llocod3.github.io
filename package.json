@@ -1,0 +1,23 @@
+{
+  "name": "h3llocod3.github.io",
+  "version": "1.0.0",
+  "description": "website of H3LLO COD3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h3llocod3/h3llocod3.github.io.git"
+  },
+  "author": "h3llo cod3 admins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h3llocod3/h3llocod3.github.io/issues"
+  },
+  "homepage": "https://github.com/h3llocod3/h3llocod3.github.io#readme",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "serve-static": "^1.13.2"
+  }
+}
