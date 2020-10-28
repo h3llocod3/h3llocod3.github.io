@@ -8,15 +8,15 @@ go to https://h3llocod3.girhub.io
 to start server you have to do the following codes.
 Go to the terminal and type
 
-`cd H3llocod3.github.io`
+`'cd H3llocod3.github.io'`
 
 then install all dependencies by 
 
-`npm install`
+`'npm install'`
 
 after that start server by 
 
-`npm start`
+`'npm start'`
 
 ## Contributions 
 All contributions to this site can be done througha pull request
